@@ -4,8 +4,7 @@
 ## ✨Knowledges✨
 
 ### 💬 Languages
-- [![java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=000)](https://www.java.com/en/)
-- [![cs](https://img.shields.io/badge/-C%20sharp-239120?logo=csharp&logoColor=000)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+ [![java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=000)](https://www.java.com/en/)     [![cs](https://img.shields.io/badge/-C%20sharp-239120?logo=csharp&logoColor=000)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - [![js](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/ht)
 - [![ts](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=000)](https://www.javascript.com/ht)
 
