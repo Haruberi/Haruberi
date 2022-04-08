@@ -25,7 +25,8 @@
 ![gitkraken](https://img.shields.io/badge/-Gitkraken-007396?logo=gitkraken&logoColor=000)
 
 ### ⚒ Frameworks
-![spring](https://img.shields.io/badge/-Spring%20Boot-2edf53?logo=spring&logoColor=000)
+![spring](https://img.shields.io/badge/-Spring%20Boot-2edf53?logo=springboot&logoColor=000)
+![spring](https://img.shields.io/badge/-Spring-2edf53?logo=spring&logoColor=000)
 ![nodejs](https://img.shields.io/badge/-NodeJS-70d586?logo=nodedotjs&logoColor=000)
 ![react](https://img.shields.io/badge/-React-67d0ef?logo=react&logoColor=000)
 ![vue](https://img.shields.io/badge/-Vue-52b95e?logo=vuedotjs&logoColor=000)
