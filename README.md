@@ -26,7 +26,7 @@
 - [![npm](https://img.shields.io/badge/-npm-fff?logo=npm&logoColor=000)](https://www.npmjs.com/)
 - [![heroku](https://img.shields.io/badge/-Heroku-b27cf2?logo=heroku&logoColor=000)](https://www.heroku.com/)
 - [![docker](https://img.shields.io/badge/-Docker-60abf4?logo=docker&logoColor=000)](https://www.docker.com/)
-- [![swagger](https://img.shields.io/badge/-Swagger-60f46b?logo=swagger&logoColor=000)](https://www.javascript.com/ht)
+- [![swagger](https://img.shields.io/badge/-Swagger-60f46b?logo=swagger&logoColor=000)](https://swagger.io/tools/swaggerhub/?utm_source=bing&utm_medium=ppcb&utm_campaign=SEM_SwaggerHub_PR_EMEA_ENG_EXT_Prospecting&utm_term=swagger&utm_content=&gclid=498ca814245c1992f76fca5bd0cb6e82&gclsrc=3p.ds&msclkid=498ca814245c1992f76fca5bd0cb6e82)
 - [![thymeleaf](https://img.shields.io/badge/-Thymeleaf-349e3c?logo=thymeleaf&logoColor=000)](https://www.thymeleaf.org/)
 - [![gradle](https://img.shields.io/badge/-Gradle-fff?logo=gradle&logoColor=000)](https://www.jetbrains.com/help/idea/gradle.html)
 - [![gitlab](https://img.shields.io/badge/-GitLab-fff?logo=gitlab&logoColor=000)](https://gitlab.com/Haruberi)
