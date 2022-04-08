@@ -34,11 +34,12 @@
 [![swagger](https://img.shields.io/badge/-Swagger-60f46b?logo=swagger&logoColor=000)](https://swagger.io/tools/swaggerhub/?utm_source=bing&utm_medium=ppcb&utm_campaign=SEM_SwaggerHub_PR_EMEA_ENG_EXT_Prospecting&utm_term=swagger&utm_content=&gclid=498ca814245c1992f76fca5bd0cb6e82&gclsrc=3p.ds&msclkid=498ca814245c1992f76fca5bd0cb6e82) 
 [![thymeleaf](https://img.shields.io/badge/-Thymeleaf-349e3c?logo=thymeleaf&logoColor=000)](https://www.thymeleaf.org/) 
 [![gradle](https://img.shields.io/badge/-Gradle-fff?logo=gradle&logoColor=000)](https://www.jetbrains.com/help/idea/gradle.html) 
+[![github](https://img.shields.io/badge/-GitHub-fff?logo=github&logoColor=000)](https://github.com/Haruberi)
 [![gitlab](https://img.shields.io/badge/-GitLab-fff?logo=gitlab&logoColor=000)](https://gitlab.com/Haruberi)
 
 ### 📚  Databases
- [![postgres](https://img.shields.io/badge/-PostgreSQL-4e99d2?logo=postgresql&logoColor=000)](https://www.java.com/en/) 
- [![mysql](https://img.shields.io/badge/-MySQL-ffaf2d?logo=mysql&logoColor=000)](https://www.java.com/en/)
+ [![postgres](https://img.shields.io/badge/-PostgreSQL-4e99d2?logo=postgresql&logoColor=000)](https://www.postgresql.org/) 
+ [![mysql](https://img.shields.io/badge/-MySQL-ffaf2d?logo=mysql&logoColor=000)](https://www.mysql.com/)
 
  
  
