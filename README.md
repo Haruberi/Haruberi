@@ -20,6 +20,7 @@
 ![git](https://img.shields.io/badge/-Git-f56e65?logo=git&logoColor=000)
 ![as](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=000)
 ![tableau](https://img.shields.io/badge/-Tableau-b4a7d6?logo=tableau&logoColor=000)
+![gitkraken](https://img.shields.io/badge/-Gitkraken-007396?logo=gitkraken&logoColor=000)
 
 ### ⚒ Frameworks
 ![spring](https://img.shields.io/badge/-Spring%20Boot-2edf53?logo=spring&logoColor=000)
