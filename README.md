@@ -7,6 +7,7 @@
  ![java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=000)
  ![cs](https://img.shields.io/badge/-C%20sharp-239120?logo=csharp&logoColor=000)
  ![js](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+ ![sqlite](https://img.shields.io/badge/-SQLite-9bc1f4?logo=sqlite&logoColor=000)
  ![ts](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=000)
  ![css](https://img.shields.io/badge/-CSS-46a4ef?logo=css3&logoColor=000)
  ![html](https://img.shields.io/badge/-HTML-e55c10?logo=html5&logoColor=000)
